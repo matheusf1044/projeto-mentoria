@@ -1,0 +1,22 @@
+@media screen and (max-width: 570px) {
+    .div-img-motos {
+        min-width: 300px;
+        min-height: 450px;
+    }
+    .separacao {
+        min-width: 300px;
+    }
+    .img-motos {
+        max-width: 250px;
+        max-height: 250px;
+    }
+    .destaques {
+        font-size: 30px;
+    }
+    .informacao {
+        margin-bottom: 45px;
+    }
+    .info-moto {
+        margin-top: 15px;
+    }
+}
