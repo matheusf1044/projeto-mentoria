@@ -1,4 +1,15 @@
-@media screen and (max-width: 570px) {
+@media screen and (max-width: 590px) {
+    .nav-options {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .icons {
+        margin-top: 15px;
+    }
+
     .div-img-motos {
         min-width: 300px;
         min-height: 450px;
